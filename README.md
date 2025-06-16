@@ -18,7 +18,6 @@ The goal is to provide the board of directors with clear insights into how whole
 
 ## Project Structure
 - `queries/` – SQL queries for net revenue calculations and grouping
-- `results/` – Summaries and visualizations (optional)
 - `README.md` – Project overview and documentation
 
 ## Link to a project
